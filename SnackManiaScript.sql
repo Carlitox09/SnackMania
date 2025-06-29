@@ -1,6 +1,6 @@
 -- MySQL dump 10.13  Distrib 8.0.34, for Win64 (x86_64)
 --
--- Host: 127.0.0.1    Database: quentosnacks
+-- Host: 127.0.0.1    Database: Snackmania
 -- ------------------------------------------------------
 -- Server version	8.1.0
 
